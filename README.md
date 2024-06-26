@@ -1,1 +1,1 @@
-This project is Nextjs prisma blog test.
+This project is Nextjs prisma blog test!
